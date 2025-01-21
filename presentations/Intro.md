@@ -20,9 +20,12 @@ Rafał Leja
 
 # Success criteria
 
-### The model can:
+
+### Full success criteria:
 - solve simple mathematical problems
 - solve in multiple steps
+
+### Partial success criteria:
 - solve basic arithmetic problems
 
 ---
